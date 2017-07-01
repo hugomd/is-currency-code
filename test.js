@@ -3,7 +3,7 @@ const test = require('ava');
 const isCurrencyCode = require('./index');
 
 test('should succeed with uppercase currency code', t => {
-  t.is(isCurrencyCode('usd'), true);
+  t.is(isCurrencyCode('USD'), true);
 });
 
 test('should succeed with lowercase currency code', t => {
