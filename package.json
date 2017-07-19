@@ -1,6 +1,6 @@
 {
   "name": "is-currency-code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Validates whether a given input is a valid ISO 4217 currency code",
   "scripts": {
     "test": "xo && ava"
