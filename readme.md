@@ -22,3 +22,8 @@ isCurrencyCode('fake-currency'); // false
 * Make your changes
 * Open a pull request and ask for review ✌️
 * Optional: use emoji in your commits 🔥
+
+# Related Repositories
+* [`joi-is-currency`](https://github.com/hugomd/joi-currency-code)
+* [`is-currency`](https://github.com/hugomd/is-currency)
+* [`is-currency-symbol`](https://github.com/hugomd/is-currency-symbol)
